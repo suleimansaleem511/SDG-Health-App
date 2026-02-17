@@ -5,6 +5,7 @@ Agile software prototype for SDG 3: Good Health and Well-being - Taylor's Univer
 ## SDG Chosen
 
 **SDG 3: Good Health and Well-being**
+
 VitaTrack helps users track their daily health indicators to discover health patterns which they can use to make better choices for their physical and mental health through its customized tracking system and health information.
 
 ## Team Members
