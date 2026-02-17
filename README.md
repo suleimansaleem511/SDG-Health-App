@@ -42,7 +42,7 @@ VitaTrack helps users track their daily health indicators to discover health pat
 https://trello.com/invite/b/6994620623a0bf272d16911f/ATTI36ee8c1886fa477a4a36bc4b04a2abad1C1E2FD0/my-trello-board
 
 ## Project Structure
-- planning - Product vision, user stories, sprint backlogs, meeting notes
-- design - Use case diagrams, wireframes, mockups, UI designs
-- testing - Test plans, user feedback forms, bug reports, test results
-- final - Final prototype screenshots, completed report, presentation slides - Final prototype screenshots, completed report, presentation slides
+- Planning - Product vision, user stories, sprint backlogs, meeting notes
+- Design - Use case diagrams, wireframes, mockups, UI designs
+- Testing - Test plans, user feedback forms, bug reports, test results
+- Final - Final prototype screenshots, completed report, presentation slides - Final prototype screenshots, completed report, presentation slides
