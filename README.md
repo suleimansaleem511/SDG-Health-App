@@ -11,10 +11,10 @@ VitaTrack helps users track their daily health indicators to discover health pat
 ## Team Members
 | Name | Student ID | Role |
 |------|-----------|------|
-| Mohammad Suleiman Saleem | 0386183 | Group Leader / Scrum Master / Development |
+| Mohammad Suleiman Saleem | 0386183 | Group Leader / Scrum Master / Documentation |
 | [Member 2] | [ID] | Requirements & Analysis |
 | [Member 3] | [ID] | UI/UX Design |
-| [Member 4] | [ID] | Documentation & Testing |
+| [Member 4] | [ID] |Development & Testing |
 
 ## Project Description
 **What:** VitaTrack is a personal health monitoring application for tracking daily wellness metrics.
