@@ -89,8 +89,8 @@ To university students and young adults who struggle to adhere to regular health
 
 | SDG Target | VitaTrack Contribution |
 |------------|------------------------|
-| **3.4** Reduce premature mortality from non-communicable diseases | Early pattern detection through daily tracking |
-| **3.8** Achieve universal health coverage | Free accessible tool for health monitoring |
+| **3.4** Reducing premature mortality from non-communicable diseases | Detecting patterns beforehand through daily tracking |
+| **3.8** Achieve universal health coverage | Free tools to monitor health |
 | **3.C** Increase health financing and workforce | Data export supports healthcare provider consultations |
 
 ---
@@ -99,15 +99,15 @@ To university students and young adults who struggle to adhere to regular health
 
 ### Constraints
 - 4-week development timeline
-- 5-person team with limited resources
+- 4-person team with limited resources
 - Prototype scope (not full production app)
 - Must demonstrate Agile/Scrum methodology
 
 ### Assumptions
-- Users have smartphones with internet access
-- Users are motivated to improve their health
-- Health data self-reporting is accurate enough for trends
-- University students represent a viable initial user base
+- Users have digital devices, like smartphone, with internet connection
+- Users are motivated to improve and maintain their health
+- User's enter their health reports accurately in order to make the trends
+- Majority of the users will be university students
 
 ---
 
@@ -126,11 +126,10 @@ To university students and young adults who struggle to adhere to regular health
 
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
-| Group Leader / Scrum Master | Mohammad Suleiman Saleem | | |
+| Group Leader / Scrum Master / QA Lead | Mohammad Suleiman Saleem | | |
 | Requirements Lead | [Member 2] | | |
 | Design Lead | [Member 3] | | |
 | Development Lead | [Member 4] | | |
-| QA Lead | [Member 5] | | |
 
 ---
 
@@ -142,4 +141,3 @@ To university students and young adults who struggle to adhere to regular health
 
 ---
 
-*This document serves as the foundation for all project planning and development decisions. All team members should reference this vision when making scope or design choices.*
