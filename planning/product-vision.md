@@ -1,5 +1,3 @@
-<img width="559" height="324" alt="image" src="https://github.com/user-attachments/assets/e2aa3143-5ada-4565-8d44-7342dde00141" /># VitaTrack - Product Vision Document
-
 ## Project Information
 | Item | Details |
 |------|---------|
