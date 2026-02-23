@@ -62,12 +62,12 @@ To university students and young adults who struggle to adhere to regular health
 | Feature | Description | Priority | Sprint |
 |---------|-------------|----------|--------|
 | **User Authentication** | Secure login and account creation | High | 1 |
-| **Daily Health Log** | Track sleep, water, mood, exercise | High | 1 |
-| **Dashboard Analytics** | Visual charts of health trends | High | 2 |
-| **Goal Setting** | Set personalized health targets | Medium | 2 |
-| **Smart Reminders** | Customizable notification system | Medium | 2 |
-| **Data Export** | PDF/CSV report generation | Low | 2 |
-| **Health Insights** | Pattern recognition and tips | Medium | 2 |
+| **Daily Health Log** | Track sleep and water intake and mood and exercise activities | High | 1 |
+| **Dashboard Analytics** | Visual charts display health trend information | High | 2 |
+| **Goal Setting** | Users can establish their own health objectives | Medium | 2 |
+| **Smart Reminders** | Users can create their own notification system through customizable options | Medium | 2 |
+| **Data Export** | Users can generate reports in PDF and CSV formats | Low | 2 |
+| **Health Insights** | The system identifies patterns and provides recommendations | Medium | 2 |
 
 ---
 
