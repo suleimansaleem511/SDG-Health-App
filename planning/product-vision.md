@@ -1,4 +1,4 @@
-# VitaTrack - Product Vision Document
+<img width="559" height="324" alt="image" src="https://github.com/user-attachments/assets/e2aa3143-5ada-4565-8d44-7342dde00141" /># VitaTrack - Product Vision Document
 
 ## Project Information
 | Item | Details |
@@ -126,7 +126,7 @@ To university students and young adults who struggle to adhere to regular health
 
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
-| Group Leader / Scrum Master / QA Lead | Mohammad Suleiman Saleem | | |
+| Group Leader / Scrum Master / QA Lead | Mohammad Suleiman Saleem | Suleiman | 23/02/2026 |
 | Requirements Lead | [Member 2] | | |
 | Design Lead | [Member 3] | | |
 | Development Lead | [Member 4] | | |
