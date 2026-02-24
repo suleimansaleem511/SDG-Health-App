@@ -1,24 +1,45 @@
-1.What Is SDG? — Background of the Sustainable Development Goals
-As part of their 2030 Agenda for Sustainable Development, 17 global goals were created by the United Nations under the Sustainable Development Goals (SDGs) on September 29th, 2015. These goals will guide all nations in creating a better life for humankind while also protecting our planet by 2030.
-2.Historical Background
- The Millennium Development Goals (2000-2015) had been established before they became the Sustainable Development Goals (SDGs) at the UN Summit in September 2015 in New York City to reduce global extreme poverty and meet basic needs within developing nations.All 193 member nations that came together to adopt the 2030 Agenda also agreed to use SDGs, which expanded from developing countries to include both developed and developing countries around the world, as a new framework for measuring global development.SDGs are built upon the original MDGs but extend their scope from just developing nations to developing and developed nations.
-3.Why Were SDGs Created?
- Poverty and hunger, climate change, and inequality; poor health and education systems; and environmental degradation were some of the biggest global challenges facing the planet at the time these SDGs were developed. The SDGs were developed as a collaborative framework for tackling these significant global issues and creating an equitable approach to meeting these challenges from social, economic, and environmental perspectives.
-4.Background of the Sustainable Development Goals (SDGs)
- In 2015, the UN created the Sustainable Development Goals (SDGs) that are a part of their agenda for the next 15 years - "The 2030 Agenda". There are 17 goals, which cover issues such as poverty, health, education, inequality, and climate change.
-SDG accomplishments will require all countries working together. There are five areas of emphasis 
-- People: health and education
-- Planet: protect the environment
-- Prosperity: promote economic growth
-- Peace: provide justice and safety
-- Partnership: global cooperation
-What this means is that SDGs are a global plan for building a better and more sustainable future.
-5.Importance of SDGs
- The Sustainable Development Goals (SDGs) are vital since it applies globally; the goals foster sustainable development by satisfying the needs of today without negatively affecting the ability of future generations; the goals facilitate collaboration between governments, corporations, academic institutions, and individuals; and the SDGs have identification systems (169 targets).
-6.SDGs in Simple Words
-The United Nations has created a series of Sustainable Development Goals (SDGs) as a way of creating a better world for everyone by 2030. These will help to:
-Eradicate poverty and hunger
-Protect the environment and the planet
-Improve everybody's health and happiness
-Promote justice, peace, and global cooperation
-So, ultimately, SDGs are your roadmap towards living a better life now and ensuring a safe future for all people.
+1. Introduction
+ In the year 2015, the United Nations adopted the 2030 Agenda of Sustainable Development, which includes the Sustainable Development Goals (SDGs). The goals are 17 and are supposed to bring an end to poverty, protect the planet, and ensure that all people have peace and prosperity by 2030.
+The SDG 3: Good Health and Well-being addressed in this report is aimed at ensuring healthy living and promoting well-being to people of all ages.
+2. Background of SDG 3
+ Health is a basic human right and a necessary requirement toward sustainable development. Despite the fact that global health is getting better in the last decades, several challenges are still present, particularly in developing countries.
+Key Global Issues:
+
+Infectious diseases (e.g., HIV, tuberculosis, malaria).
+Non-communicable illnesses (e.g., heart disease, diabetes)
+Mental health problems
+
+Mother and infant mortality.
+Poor access to medical services.
+The COVID-19 pandemic also revealed the flaws in the global health systems and the significance of universal health coverage.
+3. Main Targets of SDG 3
+SDG 3 contains a number of significant goals:
+Minimize maternal deaths in the world.
+Stop avoidable newborn and infant mortality.
+Stop AIDS, tuberculosis, malaria epidemics.
+Avoid early death due to non-communicable diseases.
+Encourage well-being and mental health.
+Attain universal health cover.
+These objectives are focused on enhancing physical and mental well-being at the global level.
+4. Current Situation
+SDG 3 contains a number of significant goals:
+Minimize maternal deaths in the world.
+Stop avoidable newborn and infant mortality.
+Stop AIDS, tuberculosis, malaria epidemics.
+Avoid early death due to non-communicable diseases.
+Encourage psychological and physical health.
+Attain universal health cover.
+These objectives are focused on enhancing physical and mental well-being at the global level.
+5. Importance to University Students
+In the case of university students, SDG 3 is quite applicable since:
+Academic stress has an impact on mental health.
+Unhealthy lifestyles (insomnia, unhealthy eating) have an impact on well-being.
+Health management awareness is critical towards success in the long term.
+
+Students can contribute by:
+Eating healthy lifestyles.
+Attending health awareness programs.
+Promoting mental health programs.
+6. Conclusion
+SDG 3 is very important in ensuring a sustainable development. However, the changes have been observed to be positive, yet further efforts are required to guarantee equal access to healthcare and enhance mental and physical health on a global scale.
+The youths and the university students have a significant role to play in enhancing and ensuring healthy living within the societies.
