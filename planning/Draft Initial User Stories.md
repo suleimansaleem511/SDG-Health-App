@@ -1,4 +1,4 @@
-1. As an individua, I want to be able to log in/out of the healthcare app(s) on a daily basis so that my daily weight changes could be tracked.
+1. As an individual, I want to be able to log in/out of the healthcare app(s) on a daily basis so that my daily weight changes could be tracked.
 2. As a patient, I want to be able to save tests and/or records pertaining to a visit with my doctor so I can refer to them when I next need them.
 3. As an individua, I am a person and want to set reminders to be active so that I have daily prompts to push me to stay active.
 4. As an individua, I want to track how long I study and how long I rest to find out whether I’m utilizing my time effectively for the day/week as a user.
