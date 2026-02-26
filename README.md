@@ -13,7 +13,7 @@ VitaTrack helps users track their daily health indicators to discover health pat
 |------|-----------|------|
 | Mohammad Suleiman Saleem | 0386183 | Group Leader / Scrum Master / Documentation |
 | [Member 2] | [ID] | Requirements & Analysis |
-| [MaryBindhu Suresh Amrrish Tobin ] | [0385079] | UI/UX Design |
+| MaryBindhu Suresh Amrrish Tobin | 0385079 | UI/UX Design |
 | [Member 4] | [ID] |Development & Testing |
 
 ## Project Description
