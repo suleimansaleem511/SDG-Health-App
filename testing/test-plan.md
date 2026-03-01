@@ -2,6 +2,8 @@
 
 VitaTrack is a customer health tracking app to university students. The given test plan includes the prototype testing stage in order to make sure that all the main functionality is present and functional.
 
+---
+
 **Test Objectives**
 
 The key goals of this testing stage are to check the functionality of user authentication, the possibility to log and save health data in the appropriate manner, the correct work of the dashboard, to check the functionality of the goal setting, and the possibility of the user interface being intuitive and user-friendly.
