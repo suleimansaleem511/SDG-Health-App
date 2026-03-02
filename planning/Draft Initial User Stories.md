@@ -1,15 +1,12 @@
-1. As a university student, I want to see school garbage collection point on an interactive map, so I can easily find the nearest dustbin to sort waste.
-2. As a recycling manager, I want real-time alerts for full or damaged recycling bins, so I can arrange timely collection and maintenance of campus recycling facilities.
-3. As a K-12 student, I want to submit homework online via a learning platform, so I can finish homework on time without paper submissions.
-4. As a school teacher, I want to grade homework and leave feedback online, so students can check grades quickly and improve their learning.
-5. As a bank customer, I want to check my account balance and transaction records on a mobile app, so I can monitor my finances anytime and anywhere.
-6. As a bank teller, I want to process customer fund transfers digitally, so I can use less paper and complete transactions more efficiently.
-7. As a university lecturer, I want to share my available appointment times online, so students can book a meeting with me without asking in person.
-8. As a college administrator, I want to manage student course registration in a digital system, so I can easily track enrollment and update records.
-9. As a UX designer, I want to create interactive UI prototypes for apps, so I can test user experience and collect feedback before official development.
-10. As a software tester, I want to generate automated test cases for apps, so I can find bugs quickly and ensure all software functions work properly.
-11. As a Scrum Master, I want to track team progress on a digital backlog tool, so I can monitor sprint goals and remove development obstacles in time.
-12. As a Product Owner, I want to prioritize user stories with the MoSCoW method, so the development team can focus on building the most critical product features first.
-13. As a campus sustainability coordinator, I want to send push notifications for recycling activities, so I can get more students to join campus environmental protection events.
-14. As a database administrator, I want the system to back up data automatically every day, so I can prevent data loss if there is a technical failure.
-15. As a primary school student’s parent, I want to receive email alerts for my child’s homework deadlines, so I can help my child finish learning tasks on time.
+1. As a User, I want to register my account so that I can  track my health in real time.
+2. As a User, I want to log in my account account so that I can access my data securely.
+3. As a User, I want to update my profile so that all personal information can be changed at any time. .
+4. As a User, I want to enter my health data once a day via my personal computer or app so that I can keep track of my health data daily.
+5. As a User, I want to check my health dashboard so that I can understand my personal health data in a simple and clear way.
+6. As a User, I want set personal goals for my health so that I know what I am working towards.
+7. As a User, I want visit scheduled reminders on my app so that I can be consistent until I make it a habit, or don’t forget it.
+8. As a User, I want to check my health analytic to sothat I can improve my bad living habits.
+9. As a User, I want to send report of my health for the month so that I can take it to my doc.
+10. As a Healthcare Provider, I want to view my patients health data so that I can best advise my patients on their health.
+11. As a Healthcare Provider, I want to be able to print patient data so I can take notes and improve the follow-up treatment plan.
+12. As a Sys Admin, I want to manage user account so that I can preventive work before problems occur to users.
