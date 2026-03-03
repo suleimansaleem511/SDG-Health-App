@@ -1,141 +1,60 @@
-## Project Information
-| Item | Details |
-|------|---------|
-| **Project Name** | VitaTrack |
-| **SDG Focus** | SDG 3: Good Health and Well-being |
-| **Target Release** | March 2026 |
-| **Date Created** | February 18, 2026 |
+**Project Information**
 
----
+VitaTrack is a wellness tracking application that is created as a personal application during the Taylor University Software Engineering project. The project is aimed at Sustainable Development Goal 3: Good Health and Well-being with a release date of March 2026.
 
-## 1. Vision Statement
+**Vision Statement**
 
-To university students and young adults who struggle to adhere to regular healthy practices because of the hectic university schedule and stressors, the VitaTrack is a personal wellness tracking app that offers convenient daily logging, analyzational visual progress, and customized wellness data, unlike generic fitness applications that mostly only track calories and the number of steps, our product targets the overall wellness of the human body, such as mental health, sleep quality, and stress management in a specifically student-friendly environment where students can find the patterns and make informed choices regarding their physical and mental well-being.
+VitaTrack is a personal wellness tracking application to university students and young adults who have difficulty following a regular routine of healthy habits due to the hectic university life and stress factors. To them, it provides easy daily logging, analytics of visual progress, and personalized wellness information. Compared to the generic fitness apps wherein the majority of apps track calories and steps burned, our product focuses on a more comprehensive wellness approach such as mental health, sleep quality, and stress management where students are able to learn patterns and make well-informed decisions about their physical and mental health.
 
----
+**Target Users**
 
-## 2. Target Users
+University students who are between 18 and 25 years old represent the primary group which needs better sleep habits and fitness monitoring and mental health protection. The users experience difficulties with health tracking because their unstable schedules and elevated stress levels and sleep disturbances and health monitoring forgetfulness. The program aims to help them develop permanent solutions to their bad habits while they discover their individual health patterns. They demonstrate advanced technical skills because their smartphone and application usage occupies a significant portion of their daily activities.
 
-### Primary Users: Students in university (Ages 18-25)
-| Characteristic | Description |
-|----------------|-------------|
-| **Needs** | You can handle stress better when you develop better sleep habits and monitor your fitness activities and protect your mental well-being.  |
-| **Pain Points** | People experience health tracking problems because their schedules are unstable and they face intense stress and experience sleep difficulties and they forget to monitor their health. |
-| **Goals** | People need to develop permanent healthy habits while they need to learn about their own health patterns. |
-| **Tech Comfort** | People use their smartphones and applications throughout the day at a rate that reaches 20 times their normal usage. |
+The secondary users include young professionals between 22 and 30 years of age that require balance of between work and life, prevention of burnout, and health. Their working environments have been characterized by sedentary jobs and misplaced eating habits due to job stress. They are hoping to establish long term healthy habits and monitor their well being as time goes by.
 
-### Secondary Users: Young Professionals (Ages 22-30)
-| Characteristic | Description |
-|----------------|-------------|
-| **Needs** | They need to achieve work-life balance because they want to avoid burning out and need to maintain their health. |
-| **Pain Points** | They suffer from two main issues which include their work situation that leads to physical inactivity and their difficulty with starting a new job that causes him to eat at irregular times. |
-| **Goals** | The person aims to build enduring healthful practices while they track their health progress. |
+The tertiary users are the healthcare providers who require access to the health records of patients to follow up on medical history and changes with time. They are experiencing limited time of consultation and partial patient self-reporting. They aim at developing evidence-based suggestions regarding improved patient care.
 
-### Tertiary Users: Healthcare Providers
-| Characteristic | Description |
-|----------------|-------------|
-| **Needs** | The ability to access patient health records lets us track their medical history which allows us to track their health changes over time |
-| **Pain Points** |Doctors have restricted time to see patients while patients fail to complete their self-reported medical information |
-| **Goals** | Our organization aims to create recommendations that use data as their foundation |
+**Product Goals**
+The primary goals require the development of software systems which users can access after they complete login within thirty seconds. The system will provide visual data through charts that display health progress measurements during different time periods. The system will operate a tracking targets system which enables users to establish health objectives and receive rewards when they successfully complete their goals. The system will provide users with a feature that tracks their mood and stress levels to help them monitor their mental health status.
 
----
+The secondary objectives require data sharing capabilities which allow users to save their health information for upcoming doctor appointments. The system needs to send users notifications which will help them monitor their progress. The organization needs to establish secure data storage systems which will protect confidential health information.
 
-## 3. Product Goals
+**Key Features**
 
-### Primary Goals
-1. **Quick access to software** - Users can log in within 30 seconds
-2. **Visual data** - Charts that show health progress over a period of time
-3. **Tracking targets system** - User's can set health objectives and comlplete them
-4. **Acknowledging user's Mental Health** - Features that track mood and stress
+It has user authentication whereby you are guaranteed to log in safely and create an account. The daily health log enables one to monitor sleep, and water consumption, mood, and exercise. The dashboard analytics will offer pictorial charts that show the trend of health. The goal setting option allows the user to have his or her own health goals. The intelligent reminders provide customization of notification systems. The data export option enables the user to produce report in PDF and CSV format. The health insights feature shows trends and offers customized suggestions.
 
-### Secondary Goals
-5. **Data Sharing** - Sharing health report from software with doctors for consultations
-6. **Sending Reminders** - notifying the user to maintain their progres
-7. **Data security** - Secure storage of sensitive health information
+**Success Metrics**
 
----
+The success criteria will be user engagement of five or more log entries per user per week, feature completion of one hundred percent of the high-priority features delivered, user satisfaction of a rating of four or higher of the test users, task completion of all the Sprint 1 and 2 tasks completed, and on-time delivery of the prototype available by Week 4.
 
-## 4. Key Features
+**SDG Alignment**
 
-| Feature | Description | Priority | Sprint |
-|---------|-------------|----------|--------|
-| **User Authentication** | Secure login and account creation | High | 1 |
-| **Daily Health Log** | Track sleep and water intake and mood and exercise activities | High | 1 |
-| **Dashboard Analytics** | Visual charts display health trend information | High | 2 |
-| **Goal Setting** | Users can establish their own health objectives | Medium | 2 |
-| **Smart Reminders** | Users can create their own notification system through customizable options | Medium | 2 |
-| **Data Export** | Users can generate reports in PDF and CSV formats | Low | 2 |
-| **Health Insights** | The system identifies patterns and provides recommendations | Medium | 2 |
+VitaTrack contributes to the SDG 3: Good Health and Well-being in a number of objectives. Target 3.4 is aimed at decreasing the premature mortality due to non-communicable diseases by the early identification of patterns, including daily monitoring. Target 3.8 will focus on achieving universal health coverage by offering free health monitoring instruments. Target 3C enhances financing of health and workforce by using data export capabilities which support healthcare provider consultations.
 
----
+**Limitations and Suppositions**
 
-## 5. Success Metrics
+The project works within the scope of four weeks development and a small team of four people and a small budget. The team must demonstrate Agile and Scrum methods because the project requires them to develop a prototype which serves as its demonstration model instead of building the full production system. 
 
-| Metric | Target | Measurement Method |
-|--------|--------|-------------------|
-| **User Engagement** | 5+ log entries per week per user | App analytics |
-| **Feature Completion** | 100% of high-priority features | Sprint reviews |
-| **User Satisfaction** | 4+ rating from test users | User feedback forms |
-| **Task Completion** | All Sprint 1 & 2 tasks done | Trello board tracking |
-| **On-time Delivery** | Prototype ready by Week 4 | Project timeline |
+The assumptions state that all users have digital access because they possess internet connectivity and all users want to improve their health while maintaining it. The users will provide precise information about their health conditions which will enable them to establish dependable health trends. The majority of users will be university students.
 
----
+**Risks and Mitigation**
 
-## 6. SDG Alignment
+Scope creep is very risky and it will be addressed by means of high prioritization with the help of the MoSCoW technique. The unavailability of team members is a medium risk and will be mitigated through cross-training on essential tasks and documenting all of them. Technical challenge is a medium risk and will be solved through the application of basic proven technologies. The delay in user testing is medium risk and will be avoided by arranging testers in advance and keeping backup testers.
 
-### How VitaTrack Supports SDG 3: Good Health and Well-being
 
-| SDG Target | VitaTrack Contribution |
-|------------|------------------------|
-| **3.4** Reducing premature mortality from non-communicable diseases | Detecting patterns beforehand through daily tracking |
-| **3.8** Achieve universal health coverage | Free tools to monitor health |
-| **3.C** Increase health financing and workforce | Data export supports healthcare provider consultations |
+**Approval**
 
----
+This team has reviewed and accepted this product vision.
 
-## 7. Constraints & Assumptions
+Scrum Lead and QA Lead and Group Leader: Mohammad Suleiman Saleem.
 
-### Constraints
-- 4-week development timeline
-- 4-person team with limited resources
-- Prototype scope (not full production app)
-- Must demonstrate Agile/Scrum methodology
+Requirements Lead: [Member 2 Name].
 
-### Assumptions
-- Users have digital devices, like smartphone, with internet connection
-- Users are motivated to improve and maintain their health
-- User's enter their health reports accurately in order to make the trends
-- Majority of the users will be university students
+Design Lead: [Member 3 Name]
 
----
+Lead Personnel [Member 4 Name]
 
-## 8. Risks & Mitigation
 
-| Risk | Impact | Mitigation Strategy |
-|------|--------|---------------------|
-| Scope creep | High | Strict prioritization using MoSCoW method |
-| Team member unavailable | Medium | Cross-train on critical tasks, document everything |
-| Technical difficulties | Medium | Use simple, proven technologies |
-| User testing delays | Medium | Schedule testers early, have backup participants |
+**Document History**
 
----
-
-## 9. Approval
-
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Group Leader / Scrum Master / QA Lead | Mohammad Suleiman Saleem | Suleiman | 23/02/2026 |
-| Requirements Lead | [Member 2] | | |
-| Design Lead | [Member 3] | | |
-| Development Lead | [Member 4] | | |
-
----
-
-## Document History
-
-| Version | Date | Author | Changes |
-|---------|------|--------|---------|
-| 1.0 | Feb 18, 2026 | Mohammad Suleiman Saleem | Initial creation |
-
----
-
+This is a first version of the product vision document that was developed on February 18, 2026 by Mohammad Suleiman Saleem.
