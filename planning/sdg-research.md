@@ -1,37 +1,23 @@
-1. Introduction
-Introduction In 2015, the UN approved the 2030 Sustainable Development Agenda, including the Sustainable Development Goals (SDGs). End poverty, protect the planet and ensure that all people enjoy peace and prosperity: they are 17 and they are supposed to do all this. The reported SDG 3: Good Health and Well-being is to ensure healthy lives and promote well-being for all at all ages (United Nations, 2015d).
-2. Background of SDG 3
- Health is a fundamental human right and a precondition for peace and security and a prerequisite for sustainable development. Although the world is becoming healthier, and the last decade brought significant health gains, major challenges remain – especially in the poorest countries.
-Major threats to global health:
-Infectious diseases (including HIV/AIDS, tuberculosis and malaria).Cancer and other noncommunicable diseases.Harmful use of alcohol and drugs.Mental health conditions, suicide and self-harm.Resource constraints: effective access to health services.
-3. Main Targets of SDG 3
-SDG 3 has some important targets:
+**Overview**
 
-Reduce maternal mortality worldwide.
-End preventable newborn and infant deaths.
-End the epidemics of AIDS, tuberculosis, malaria.
-Reduce premature mortality/excessive mortality from NCDs.
-Promote mental well-being.
-Achieve universal health coverage.
-These targets are to enhance physical and mental health at the global levels.
-5. Current Situation
-SDG Targets 3 is that;
-Reduce maternal mortality worldwide.
-End preventable newborn and infant deaths.
-End the epidemics of AIDS, tuberculosis, malaria.
-Reduce premature mortality/excessive mortality from NCDs.
-Promote mental well-being.
-Achieve universal health coverage.
-These targets are to enhance physical and mental health at the global levels.
-6. Importance to University Students
-For us university students SDG 3 means the following:
-Academic stressors affect mental health.
-Unhealthy lifestyles (insomnia, undereating) affect well being.
-Health management awareness matters towards overall success.
-We can contribute by:
-Eating healthy lifestyles.
-Attending health programmes.
-Promoting mental health programmes.
-6. Conclusion
-SDG 3 is extremely important for a sustainable development. But the changes are observed to be positive while more work needed to ensure health coverage, and improve mental and physical health across the world.
-The youths, youth essentially the university students have lot to do in improving, and bettering healthy living across the societies.
+SDG 3 also targets to achieve healthy living and well-being among all people across the age. This is a target that is critical to sustainable development and it deals with diverse health challenges experienced by people across the globe. According to the official description of the United Nations, it is important that healthy lives and well-being be ensured at all ages of people to achieve sustainable development.
+
+**The significant Targets at VitaTrack**
+
+Target 3.4 aims at lowering the premature deaths due to non-communicable diseases by prevention and treatment. VitaTrack is one of the contributors to this target by facilitating early identification of health trends by monitoring vital health parameters every day. Users will be able to see alarming patterns in their sleep, mood and physical activity before they turn into severe disorders.
+
+Target 3.8 is aimed at ensuring universal health coverage and financial risk coverage and accessibility to quality essential health-care services. VitaTrack helps fulfill this objective by helping them with a free accessible health monitoring tool giving the ability to track health directly into the hands of the users no matter their financial status or their location.
+
+Target 3.C aims at making significant improved investments in health financing and training and retention of the health workforce on the development of the recruitment. VitaTrack makes this easier with their data export feature that helps the healthcare provider with consultations with the patient by providing data on trend and the complete health history of the patient.
+
+**Health Statistics**
+
+University students encounter serious health problems, which precondition the necessity of VitaTrack. In the American College Health Association National College Health Assessment, it was discovered that about eighty percent of university students claim to be stressed out by everything they must do. According to National Sleep Foundation, sixty percent of college students have less than seven hours of sleep per night. According to the Journal of Affective Disorders, anxiety or depression occur in thirty percent of students in universities in their lives. These figures indicate that it is highly necessary to have complex health tracking solutions that address the lifestyles of students.
+
+**Existing Solutions and Gaps**
+
+MyFitnessPal is a platform that is centered on calories and weight loss and does not have the ability to track mental health. Apple Health is good at counting the steps and exercises but does not provide insights and holistic wellness features that are student-focused. Headspace does have no detailed health logging, just some meditation. The method of filling these gaps is through VitaTrack which integrates both physical and mental health monitoring into a single platform with the needs of students in mind.
+
+**Conclusion**
+
+VitaTrack aligns directly with SDG 3 since it will close the gap in the holistic health of students. The application allows early intervention by identifying patterns when health monitoring resources are available to people and makes relationships between health providers easier due to the availability of data. These contributions have been in line with various SDG 3 targets and goes hand in hand with the overall mission of promoting healthy lives to everyone.
