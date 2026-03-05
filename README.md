@@ -12,9 +12,9 @@ VitaTrack helps users track their daily health indicators to discover health pat
 | Name | Student ID | Role |
 |------|-----------|------|
 | Mohammad Suleiman Saleem | 0386183 | Group Leader / Scrum Master / Documentation |
-| [Member 2] | [ID] | Requirements & Analysis |
+| Ouyang Pengyu | 0388759 | Requirements & Analysis |
 | MaryBindhu Suresh Amrrish Tobin | 0385079 | UI/UX Design |
-| [Member 4] | [ID] |Development & Testing |
+| Li Chengfuzhi | 0390935 |Development & Testing |
 
 ## Project Description
 **What:** VitaTrack is a personal health monitoring application for tracking daily wellness metrics.
