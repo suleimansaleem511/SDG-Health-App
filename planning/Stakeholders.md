@@ -7,6 +7,6 @@ Stakeholder Analysis for VitaTrack
     - University Faculty, Taylor: The PSE module lecturers and reviewers which serve as the University Faculty, that is, the so-called clients of the project and evaluate the success of the project and its compliance with the Software Engineering standards.
 3. Internal Stakeholders (The Project Team) : 
    - Group Leader / Scrum Master ( Mohammad Suleiman Saleem ): This role is involved in documentation and Trello management, as well as project coordination.
-   - Requirements / Analysis Lead: The person will be in charge of the requirements gathering and modelling.
+   - Requirements / Analysis Lead ( Ouyang Pengyu ) : The person will be in charge of the requirements gathering and modelling.
    - UI/UX Designer ( MaryBindhu Suresh Amrrish Tobin ): He will work on the visual interface, wild-frames, and mockups.
-   - Development & Testing Lead: Lead in charge of construction of the prototype and evaluation.
+   - Development & Testing Lead ( Li Chengfuzhi ) : Lead in charge of construction of the prototype and evaluation.
