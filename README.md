@@ -39,6 +39,19 @@ VitaTrack helps users track their daily health indicators to discover health pat
 | Week 3 | Development & Testing | Working prototype, user testing, bug fixes, burndown charts |
 | Week 4 | Finalization | Final prototype, project report, presentation |
 
+#### Interactive Working Prototype
+Link : https://www.figma.com/design/dpYw0glyolgVVNL972Yz4M/VitaTrack_UI_Design?node-id=0-1&t=EL3mI0zfrtZ2IYHc-1
+
+Description: It is a demo that teaches how VitaTrack, which is an SDG 3-based app designed to be used by people studying at the university, works in the real world. It is a working prototype illustrating the full user experience of the account management to analysis of health patterns.
+Core Features Demonstrated:
+. Sleep duration, physical activity, emotional state, and water intake on an interactive basis in Daily Health Logging.
+
+. Pattern-Based Analytics: A dynamically displayed dashboard that presents the 7-day health trends and automatic insights (e.g. detecting the patterns of stress on Thursdays and Fridays).
+
+. Goal Tracking and Notification: Virtualized goal setting of weight change, milestones.
+
+. Medical Data Export: Process flow to produce and share PDF/CSV health reports with Healthcare Providers.
+
 ## Trello Board
 https://trello.com/invite/b/6994620623a0bf272d16911f/ATTI36ee8c1886fa477a4a36bc4b04a2abad1C1E2FD0/my-trello-board
 
