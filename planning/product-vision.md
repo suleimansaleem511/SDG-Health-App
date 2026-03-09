@@ -48,11 +48,11 @@ This team has reviewed and accepted this product vision.
 
 Scrum Lead and QA Lead and Group Leader: Mohammad Suleiman Saleem.
 
-Requirements Lead: [Member 2 Name].
+Requirements Lead: Ouyang Pengyu
 
-Design Lead: [Member 3 Name]
+Design Lead: Amrrish Tobin
 
-Lead Personnel [Member 4 Name]
+Lead Personnel Li Chengfuzhi
 
 
 **Document History**
