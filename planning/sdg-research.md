@@ -2,7 +2,7 @@
 
 SDG 3 also targets to achieve healthy living and well-being among all people across the age. This is a target that is critical to sustainable development and it deals with diverse health challenges experienced by people across the globe. According to the official description of the United Nations, it is important that healthy lives and well-being be ensured at all ages of people to achieve sustainable development.
 
-**The significant Targets at VitaTrack**
+**The significant targets at VitaTrack**
 
 Target 3.4 aims at lowering the premature deaths due to non-communicable diseases by prevention and treatment. VitaTrack is one of the contributors to this target by facilitating early identification of health trends by monitoring vital health parameters every day. Users will be able to see alarming patterns in their sleep, mood and physical activity before they turn into severe disorders.
 
